@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/measure-for-measure</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-09-23T18:49:43Z</dc:date>
+		<meta property="dcterms:modified">2022-09-23T18:49:43Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,9 +43,9 @@
 		<meta property="se:subject">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A duke pretends to leave Vienna to observe his deputy’s management during his absence.</dc:description>
+		<dc:description id="description">A duke pretends to leave Vienna so that he can observe his deputy’s management during his supposed absence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Duke Vincentio has given his deputy Angelo temporary power over Vienna before his leave for a diplomatic mission. Instead of leaving the city, the Duke disguises himself as a friar named Lodowick. He observes the city’s happenings and Angelo’s brief reign.&lt;/p&gt;
+			&lt;p&gt;Duke Vincentio has given his deputy Angelo temporary power over Vienna before his leave for a diplomatic mission. But instead of leaving the city, the Duke disguises himself as a friar named Lodowick, and stays behind to observe the city’s happenings and Angelo’s brief reign.&lt;/p&gt;
 			&lt;p&gt;Meanwhile, Angelo decides to enforce the laws on prostitution and debauchery, effectively shutting down the red-light district. A man named Claudio gets arrested for impregnating his lover, and Angelo sentences him to death. Claudio’s sister enlists a certain friar’s help to trick Angelo into releasing her brother.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
@@ -53,8 +53,8 @@
 		<dc:source>http://shakespeare.mit.edu/measure/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">23344</meta>
+		<meta property="se:reading-ease.flesch">73.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Measure_for_Measure</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_measure-for-measure</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
