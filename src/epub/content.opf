@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-shakespeare/measure-for-measure</dc:identifier>
 		<dc:date>2022-09-23T18:49:43Z</dc:date>
@@ -45,12 +45,12 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A duke pretends to leave Vienna so that he can observe his deputy’s management during his supposed absence.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A duke pretends to leave Vienna so that he can observe his deputy’s management during his supposed absence.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Duke Vincentio has given his deputy Angelo temporary power over Vienna before his leave for a diplomatic mission. But instead of leaving the city, the Duke disguises himself as a friar named Lodowick, and stays behind to observe the city’s happenings and Angelo’s brief reign.&lt;/p&gt;
 			&lt;p&gt;Meanwhile, Angelo decides to enforce the laws on prostitution and debauchery, effectively shutting down the red-light district. A man named Claudio gets arrested for impregnating his lover, and Angelo sentences him to death. Claudio’s sister enlists a certain friar’s help to trick Angelo into releasing her brother.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/measure/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
