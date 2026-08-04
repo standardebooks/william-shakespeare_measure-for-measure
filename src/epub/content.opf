@@ -45,7 +45,7 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>A duke pretends to leave Vienna so that he can observe his deputy’s management during his supposed absence.</dc:abstract>
+		<meta property="schema:abstract">A duke pretends to leave Vienna so that he can observe his deputy’s management during his supposed absence.</meta>
 		<dc:description>
 			&lt;p&gt;Duke Vincentio has given his deputy Angelo temporary power over Vienna before his leave for a diplomatic mission. But instead of leaving the city, the Duke disguises himself as a friar named Lodowick, and stays behind to observe the city’s happenings and Angelo’s brief reign.&lt;/p&gt;
 			&lt;p&gt;Meanwhile, Angelo decides to enforce the laws on prostitution and debauchery, effectively shutting down the red-light district. A man named Claudio gets arrested for impregnating his lover, and Angelo sentences him to death. Claudio’s sister enlists a certain friar’s help to trick Angelo into releasing her brother.&lt;/p&gt;
